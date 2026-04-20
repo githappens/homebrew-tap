@@ -2,7 +2,7 @@ class Busybee < Formula
   desc "Queued runner for resource-heavy tasks with a live CPU + queue TUI monitor"
   homepage "https://github.com/githappens/busybee"
   url "https://github.com/githappens/busybee/releases/download/0.1.0/bzb-0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "174c2dcec9ecc3e8a534cc778152d8a96f1d95b9b935fbcb8f972a0ff44d224d"
+  sha256 "e7437572c3f450209e9354a61161533e4bb033e40b43b333e1d640fc9b5ebc56"
   license any_of: ["MIT", "Apache-2.0"]
   version "0.1.0"
 
